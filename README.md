@@ -2,7 +2,7 @@
 
 This repository contains PyTorch evaluation code, training code and pretrained models for SimMatchV2. Most of the code in this repository is adapt from [here](https://github.com/mingkai-zheng/simmatch/tree/main).
 
-<!-- For details see [SimMatch: Semi-supervised Learning with Similarity Matching](https://arxiv.org/abs/2203.06915) by Mingkai Zheng, Shan You, Fei Wang, Chen Qian, and Chang Xu -->
+For details see [SimMatchV2: Semi-Supervised Learning with Graph Consistency]() by Mingkai Zheng, Shan You, Lang Huang, Chen Luo, Fei Wang, Chen Qian, and Chang Xu
 
 ## Reproducing
 To run the code, you probably need to change the Dataset setting (ImagenetPercent function in [data/imagenet.py](data/imagenet.py)), and Pytorch DDP setting (dist_init function in [utils/dist_utils.py](utils/dist_utils.py)) for your server environment.
