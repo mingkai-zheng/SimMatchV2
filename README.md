@@ -18,16 +18,16 @@ We also provide the pre-trained model.
 
 If you want to test the pre-trained model, please download the weights from the link above, and move them to the [checkpoints](checkpoints) folder. The evaluation scripts also have been provided in [script/train.sh](script/train.sh)
 
-<!-- 
+
 ## Citation
 If you find that SimMatch interesting and help your research, please consider citing it:
 ```
-@InProceedings{Zheng_2022_CVPR,
-    author    = {Zheng, Mingkai and You, Shan and Huang, Lang and Wang, Fei and Qian, Chen and Xu, Chang},
-    title     = {SimMatch: Semi-Supervised Learning With Similarity Matching},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2022},
-    pages     = {14471-14481}
+@misc{zheng2023simmatchv2,
+      title={SimMatchV2: Semi-Supervised Learning with Graph Consistency}, 
+      author={Mingkai Zheng and Shan You and Lang Huang and Chen Luo and Fei Wang and Chen Qian and Chang Xu},
+      year={2023},
+      eprint={2308.06692},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
-``` -->
+```
