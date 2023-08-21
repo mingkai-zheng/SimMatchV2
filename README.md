@@ -22,12 +22,11 @@ If you want to test the pre-trained model, please download the weights from the 
 ## Citation
 If you find that SimMatch interesting and help your research, please consider citing it:
 ```
-@misc{zheng2023simmatchv2,
-      title={SimMatchV2: Semi-Supervised Learning with Graph Consistency}, 
-      author={Mingkai Zheng and Shan You and Lang Huang and Chen Luo and Fei Wang and Chen Qian and Chang Xu},
-      year={2023},
-      eprint={2308.06692},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{zheng2023simmatchv2,
+  title={SimMatchV2: Semi-Supervised Learning with Graph Consistency},
+  author={Zheng, Mingkai and You, Shan and Huang, Lang and Luo, Chen and Wang, Fei and Qian, Chen and Xu, Chang},
+  journal={arXiv preprint arXiv:2308.06692},
+  year={2023}
+}
 }
 ```
