@@ -28,5 +28,4 @@ If you find that SimMatch interesting and help your research, please consider ci
   journal={arXiv preprint arXiv:2308.06692},
   year={2023}
 }
-}
 ```
